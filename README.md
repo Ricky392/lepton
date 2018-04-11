@@ -7,6 +7,8 @@ This can be used to archive large photo collections, or to serve images live and
 
 [![Build Status](https://travis-ci.org/dropbox/lepton.svg?branch=master)](https://travis-ci.org/dropbox/lepton)
 
+https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/
+
 
 ## Build directions
 Using a single core
